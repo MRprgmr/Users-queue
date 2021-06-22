@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="mw_icons">
+    <file>drop-down-arrow.png</file>
+    <file>add_user.png</file>
+    <file>mw_icon.png</file>
+    <file>delete.png</file>
+    <file>exit.png</file>
+  </qresource>
+</RCC>
